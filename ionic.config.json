@@ -1,0 +1,7 @@
+{
+  "name": "multiLanguageApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
